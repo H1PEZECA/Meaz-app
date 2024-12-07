@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Mlr6U6kB/3YAB9fUM+G38rHLHWBuyKI3i7eQdPRJu8o=",
+  "Hash": "mzmtUWjAlSBr8nq834Zek5cjeuMgvQzTdPXttpT66Z0=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -1088,12 +1088,12 @@
       "OriginalItemSpec": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\sfr9826l73-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\sfr9826l73-1ye6g073e3.gz",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=1ye6g073e3}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1102,8 +1102,8 @@
       "RelatedAsset": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wf4wcyqcqt",
-      "Integrity": "fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=",
+      "Fingerprint": "cmfpmkkcnp",
+      "Integrity": "rP6BE/0/p8PV4CkYtZgm7AmCBknGQXzw9eOAE/vk+Wc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "1ye6g073e3",
+      "Integrity": "KdHca8jsJYwpMycJ89dYS57Unjy29wNq4/d6IKBFSYE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2728,13 +2728,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\sfr9826l73-b9sayid5wm.gz",
+      "Route": "css/site.1ye6g073e3.css",
+      "AssetFile": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\sfr9826l73-1ye6g073e3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.001577287066"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2744,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "633"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"rP6BE/0/p8PV4CkYtZgm7AmCBknGQXzw9eOAE/vk+Wc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 15:28:55 GMT"
+          "Value": "Sat, 07 Dec 2024 23:42:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +2772,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"KdHca8jsJYwpMycJ89dYS57Unjy29wNq4/d6IKBFSYE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "1ye6g073e3"
         },
         {
           "Name": "label",
@@ -2786,12 +2786,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-KdHca8jsJYwpMycJ89dYS57Unjy29wNq4/d6IKBFSYE="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.1ye6g073e3.css",
       "AssetFile": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +2801,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "1810"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +2809,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"KdHca8jsJYwpMycJ89dYS57Unjy29wNq4/d6IKBFSYE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 15:28:55 GMT"
+          "Value": "Sat, 07 Dec 2024 23:42:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +2823,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "1ye6g073e3"
         },
         {
           "Name": "label",
@@ -2831,13 +2831,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-KdHca8jsJYwpMycJ89dYS57Unjy29wNq4/d6IKBFSYE="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\sfr9826l73-b9sayid5wm.gz",
+      "Route": "css/site.1ye6g073e3.css.gz",
+      "AssetFile": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\sfr9826l73-1ye6g073e3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +2846,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "633"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +2854,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"rP6BE/0/p8PV4CkYtZgm7AmCBknGQXzw9eOAE/vk+Wc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 15:28:55 GMT"
+          "Value": "Sat, 07 Dec 2024 23:42:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +2876,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "1ye6g073e3"
         },
         {
           "Name": "label",
@@ -2884,18 +2884,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-rP6BE/0/p8PV4CkYtZgm7AmCBknGQXzw9eOAE/vk+Wc="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\sfr9826l73-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\sfr9826l73-1ye6g073e3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.001577287066"
         }
       ],
       "ResponseHeaders": [
@@ -2905,15 +2905,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "633"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"rP6BE/0/p8PV4CkYtZgm7AmCBknGQXzw9eOAE/vk+Wc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 15:28:55 GMT"
+          "Value": "Sat, 07 Dec 2024 23:42:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2933,13 +2933,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"KdHca8jsJYwpMycJ89dYS57Unjy29wNq4/d6IKBFSYE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-KdHca8jsJYwpMycJ89dYS57Unjy29wNq4/d6IKBFSYE="
         }
       ]
     },
@@ -2954,7 +2954,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "1810"
         },
         {
           "Name": "Content-Type",
@@ -2962,11 +2962,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"KdHca8jsJYwpMycJ89dYS57Unjy29wNq4/d6IKBFSYE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 15:28:55 GMT"
+          "Value": "Sat, 07 Dec 2024 23:42:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2976,13 +2976,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-KdHca8jsJYwpMycJ89dYS57Unjy29wNq4/d6IKBFSYE="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\sfr9826l73-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\sfr9826l73-1ye6g073e3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2991,7 +2991,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "633"
         },
         {
           "Name": "Content-Type",
@@ -2999,11 +2999,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"rP6BE/0/p8PV4CkYtZgm7AmCBknGQXzw9eOAE/vk+Wc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 15:28:55 GMT"
+          "Value": "Sat, 07 Dec 2024 23:42:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3021,7 +3021,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-rP6BE/0/p8PV4CkYtZgm7AmCBknGQXzw9eOAE/vk+Wc="
         }
       ]
     },
@@ -21310,7 +21310,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 15:32:05 GMT"
+          "Value": "Sat, 07 Dec 2024 23:36:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21363,7 +21363,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 15:32:05 GMT"
+          "Value": "Sat, 07 Dec 2024 23:36:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21400,7 +21400,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 15:32:05 GMT"
+          "Value": "Sat, 07 Dec 2024 23:36:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21447,7 +21447,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 15:32:05 GMT"
+          "Value": "Sat, 07 Dec 2024 23:36:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21500,7 +21500,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 15:32:05 GMT"
+          "Value": "Sat, 07 Dec 2024 23:36:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21537,7 +21537,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 15:32:05 GMT"
+          "Value": "Sat, 07 Dec 2024 23:36:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21584,7 +21584,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 15:32:05 GMT"
+          "Value": "Sat, 07 Dec 2024 23:36:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21645,7 +21645,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 15:32:05 GMT"
+          "Value": "Sat, 07 Dec 2024 23:36:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21690,7 +21690,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 15:32:05 GMT"
+          "Value": "Sat, 07 Dec 2024 23:36:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21745,7 +21745,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 15:32:05 GMT"
+          "Value": "Sat, 07 Dec 2024 23:36:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21806,7 +21806,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 15:32:05 GMT"
+          "Value": "Sat, 07 Dec 2024 23:36:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21851,7 +21851,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 15:32:05 GMT"
+          "Value": "Sat, 07 Dec 2024 23:36:03 GMT"
         },
         {
           "Name": "Cache-Control",
