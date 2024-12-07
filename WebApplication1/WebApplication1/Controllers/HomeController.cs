@@ -15,6 +15,12 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        var produtos = new List<ProdutoViewModel>
+        {
+            new ProdutoViewModel{Nome = "Perfume Capilar - Floral", Preco = 99.90, ImagemUrl = "/images/produto1.jpg" },
+            new ProdutoViewModel { Nome = "Creme Hidratante", Preco = 59.90, ImagemUrl = "/images/produto2.jpg" },
+            new ProdutoViewModel { Nome = "Óleo Capilar", Preco = 79.90, ImagemUrl = "/images/produto3.jpg" }
+        };
         return View();
     }
 
