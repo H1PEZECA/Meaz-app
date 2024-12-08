@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{064D5C2A-8AFD-4B3F-86BF-7474CF7E612B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{064D5C2A-8AFD-4B3F-86BF-7474CF7E612B}|WebApplication1\\WebApplication1.csproj|c:\\users\\adm\\zeca\\documentos\\meusprojetos\\meaz-app\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064D5C2A-8AFD-4B3F-86BF-7474CF7E612B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{064D5C2A-8AFD-4B3F-86BF-7474CF7E612B}|WebApplication1\\WebApplication1.csproj|c:\\users\\adm\\zeca\\documentos\\meusprojetos\\meaz-app\\webapplication1\\webapplication1\\models\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{064D5C2A-8AFD-4B3F-86BF-7474CF7E612B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{064D5C2A-8AFD-4B3F-86BF-7474CF7E612B}|WebApplication1\\WebApplication1.csproj|c:\\users\\adm\\zeca\\documentos\\meusprojetos\\meaz-app\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{064D5C2A-8AFD-4B3F-86BF-7474CF7E612B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{064D5C2A-8AFD-4B3F-86BF-7474CF7E612B}|WebApplication1\\WebApplication1.csproj|c:\\users\\adm\\zeca\\documentos\\meusprojetos\\meaz-app\\webapplication1\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{064D5C2A-8AFD-4B3F-86BF-7474CF7E612B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{064D5C2A-8AFD-4B3F-86BF-7474CF7E612B}|WebApplication1\\WebApplication1.csproj|c:\\users\\adm\\zeca\\documentos\\meusprojetos\\meaz-app\\webapplication1\\webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,15 +54,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-07T23:42:20.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProdutoViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\Models\\ProdutoViewModel.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\ProdutoViewModel.cs",
@@ -71,20 +92,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T14:44:24.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\ErrorViewModel.cs",
@@ -96,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\Error.cshtml",
@@ -108,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -120,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
@@ -132,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Privacy.cshtml",
@@ -150,14 +171,14 @@
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAewB8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-06T23:21:13.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
@@ -169,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "WebApplication1.csproj",
               "DocumentMoniker": "C:\\Users\\ADM\\Zeca\\Documentos\\MeusProjetos\\Meaz-app\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
               "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",

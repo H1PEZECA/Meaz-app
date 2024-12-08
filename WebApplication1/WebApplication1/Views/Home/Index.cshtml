@@ -4,17 +4,52 @@
 
 
 
+<!-- Barra de Navegação -->
 <nav class="navbar">
-    <div class="Logo"> MEAZ</div>
-    <ul class="Menu">
+    <div class="logo">MEAZ</div>
+    <ul class="menu">
         <li><a href="#">Produtos</a></li>
         <li><a href="#">Novidades</a></li>
         <li><a href="#">Sobre Nós</a></li>
-    </ul>   
-    <div class="Icons">
+    </ul>
+    <div class="icons">
         <a href="#"><i class="fas fa-search"></i></a>
-        <a href="#"><i class="fas fa-shopping cart"></i></a>
+        <a href="#"><i class="fas fa-shopping-cart"></i></a>
     </div>
 </nav>
 
 <!-- Hero Banner -->
+<section class="hero">
+    <img src="/images/hero-banner.jpg" alt="Coleção MEAZ">
+    <div class="hero-text">
+        <h1>Descubra nossa coleção</h1>
+        <p>Cosméticos criados para realçar sua beleza natural.</p>
+        <a href="#" class="btn">Ver Produtos</a>
+    </div>
+</section>
+
+<!-- Produtos em Destaque -->
+<section class="products">
+    <h2>Produtos em Destaque</h2>
+    <div class="product-grid">
+        @foreach (var produtos in ProdutoViewModel)
+        {
+            <div class="product">
+                <img src="@produtos.ImagemUrl" alt="@produtos.Nome">
+                <h3>@produtos.Nome</h3>
+                <p>R$ @produtos.Preco.ToString("F2")</p>
+                <a href="#" class="btn">Comprar</a>
+            </div>
+        }
+    </div>
+</section>
+
+<!-- Rodapé -->
+<footer class="footer">
+    <p>&copy; 2024 MEAZ - Cosméticos e Beleza</p>
+    <ul>
+        <li><a href="#">Contato</a></li>
+        <li><a href="#">Termos de Uso</a></li>
+        <li><a href="#">Redes Sociais</a></li>
+    </ul>
+</footer>
